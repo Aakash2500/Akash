@@ -13,8 +13,5 @@ public class Akash_GIT_Hub {
 		System.out.println("Hii Akash"+"How R U");
 	}
 	
-	public void m2()
-	{
-		System.out.println("AK"+"Fineeee");
-	}
+	
 }
